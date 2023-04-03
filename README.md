@@ -25,3 +25,5 @@ After trying various models and fine-tuning the hyperparameters, I was able to a
 This project was a great opportunity for me to apply my data science skills to a real-world problem and gain experience in feature engineering, model selection, and hyperparameter tuning. I hope my submission will help others learn from my approach and improve their performance in the competition.
 
 Thank you for reading and please feel free to contact me if you have any questions or feedback.
+
+Link to the notebook on Kaggle : [https://www.kaggle.com/code/dreygaen/titanic-eda-and-prediction-0-78229](https://www.kaggle.com/code/dreygaen/titanic-eda-and-prediction-0-78229)
